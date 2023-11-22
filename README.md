@@ -12,6 +12,15 @@
 
 :heavy_check_mark: ![GIT](https://img.shields.io/badge/Git-gainsboro?logo=git) ![GITHUB](https://img.shields.io/badge/GitHub-gainsboro?logo=github&logoColor=black)
 
+:heavy_check_mark: ![HTML](https://img.shields.io/badge/HTML-gainsboro?logo=html5) ![CSS](https://img.shields.io/badge/CSS-gainsboro?logo=css3&logoColor=blue)
+
+:heavy_check_mark: ![VSC](https://img.shields.io/badge/VSC-gainsboro?logo=visualstudiocode&logoColor=blue)
+
+:heavy_check_mark: ![DT](https://img.shields.io/badge/DevTools-gainsboro?logo=googlechrome)
+
+:heavy_check_mark: [![Mantis Bug Tracker](https://img.shields.io/badge/Mantis-Bug%20Tracker-blue.svg)](https://www.mantisbt.org/)
+
+
 <!--
 **MaciekMielnik/MaciekMielnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
