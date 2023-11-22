@@ -1,4 +1,4 @@
-# Hi 👋 my name is Maciek.
+# Hi :handshake: my name is Maciek.
 
 ## Software that i'm familiar with:
 
