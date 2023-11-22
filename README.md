@@ -9,6 +9,9 @@
 :heavy_check_mark: ![Postman](https://img.shields.io/badge/Postman-gainsboro?logo=Postman)
 
 :heavy_check_mark: ![Cypress](https://img.shields.io/badge/Cypress-gainsboro?logo=cypress&logoColor=black)
+
+:heavy_check_mark: ![GIT](https://img.shields.io/badge/Git-gainsboro?logo=git) ![GITHUB](https://img.shields.io/badge/GitHub-gainsboro?logo=github&logoColor=black)
+
 <!--
 **MaciekMielnik/MaciekMielnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
