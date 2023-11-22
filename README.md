@@ -2,7 +2,7 @@
 
 ## Software that i'm familiar with:
 
-:heavy_check_mark: [![Jira](https://img.shields.io/badge/Jira-gainsboro?logo=jira&logoColor=blue)](https://www.atlassian.com/) ![Trello](https://img.shields.io/badge/Trello-gainsboro?logo=trello&logoColor=blue)
+:heavy_check_mark: [![Jira](https://img.shields.io/badge/Jira-gainsboro?logo=jira&logoColor=blue)](http://www.atlassian.com/) ![Trello](https://img.shields.io/badge/Trello-gainsboro?logo=trello&logoColor=blue)
 
 :heavy_check_mark: ![JavaScript](https://img.shields.io/badge/JavaScript-gainsboro?logo=javascript) ![MySQL](https://img.shields.io/badge/MySQL-gainsboro?logo=Mysql)
 
